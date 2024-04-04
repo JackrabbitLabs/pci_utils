@@ -19,7 +19,7 @@
 
 #include <arrayutils.h>
 
-#include "pciutils.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
